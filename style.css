@@ -1,0 +1,169 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background: #c3cad4;
+}
+
+.wrapper {
+    display: flex;
+    width: 1200px;
+    margin: 0 auto;
+    background: #fff;
+    box-shadow: 6px 6px 20px 0px;
+}
+
+asaid {
+    width: 370px;
+    background: #1e2939;
+}
+
+.photo-cv {
+    margin: 25px 0 0 0;
+}
+
+.contacts-link {
+    color: white;
+    font-weight: 700;
+}
+
+.cont-link {
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.list-secondary {
+    color: #fb6d3a;
+    margin-left: 0;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+.list-secondary-items {
+    color: white;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.contacts-block {
+    margin-top: 51px;
+    margin-left: 40px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.Tech-Skills-Block {
+    margin-top: 47px;
+    margin-left: 40px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.soft-block {
+    margin-top: 44px;
+    margin-left: 40px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+main {
+    padding: 102px 88px 102px 88px;
+}
+
+.main-description {
+    width: 400px;
+}
+
+.job-title {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+}
+
+h1 {
+    font-size: 45px;
+    font-weight: 700x;
+    line-height: 55px;
+}
+
+.description {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400px;
+    line-height: 24px;
+    margin-bottom: 40px;
+}
+
+.projects {
+    width: 485px;
+    margin-bottom: 51px;
+}
+
+.list-primary {
+    color: #000;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+.list-primary-item {
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration-line: none;
+}
+
+.header-primary {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 27px;
+    margin-bottom: 12px;
+    margin-top: 51px;
+}
+
+.job-name {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+}
+
+.hightlight {
+    color: #fb6d3a;
+}
+
+.font-date {
+    color: #a8a8a8;
+    font-size: 12px;
+    font-weight: 400px;
+    line-height: 15px;
+}
+
+.job-list {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 8px;
+    padding-left: 20px;
+}
+
+.job-second {
+    width: 509px;
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
